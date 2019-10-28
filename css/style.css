@@ -23,12 +23,14 @@ body{
 	border:2px solid #6caed5;
 }
 .user-box h1{
-	color: #ff3300;
+	color: #fff;
+  	text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
 	margin: 20px;
 
 }
 .user-box h5{
 	color: #fff;
+	text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
 }
 .scroll-btn{
 	bottom: 15px;
